@@ -9,8 +9,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <br> Department of Computer Science and Engineering </br>
-    <br> Chinese University of Hong Kong, Shatin, Hong Kong </br>
-    xhy030706@gmail.com
+    <br> The Chinese University of Hong Kong, Shatin, Hong Kong </br>
+    hyxu25@cse.cuhk.edu.hk
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,9 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student supervised by Prof. [Tsung-Yi Ho](https://tsungyiho.github.io/) at the Department of Computer Science and Engineering,Chinese University of Hong Kong. Prior to this, I completed my bachelor’s degree in Computer Science at Northwestern Polytechnical University.
+I am a Ph.D. student supervised by Prof. [Tsung-Yi Ho](https://tsungyiho.github.io/) at the Department of Computer Science and Engineering, The Chinese University of Hong Kong. Prior to this, I completed my bachelor’s degree in Computer Science at Northwestern Polytechnical University.
 
-My research interests include **Physical Design, and 3D-IC flow in Electronic Design Automation**. I used to be a ACMer in programming contest and enetered the **International Collegiate Programming Contest(ICPC)** twice.
+My research interests include **Physical Design in 3D ICs and advanced packaging**. I used to be a ACMer in programming contest and enetered the **International Collegiate Programming Contest (ICPC)** twice.
 
 ## Award
 - 2024.9, 51th Place, 48th Annual World Final of International Collegiate Programming Contest, Astana, Kazakhstan.
@@ -36,7 +36,7 @@ My research interests include **Physical Design, and 3D-IC flow in Electronic De
 - 2024.5, 26th Place, 46th Annual World Final of International Collegiate Programming Contest, Luxor, Egypt.
 
 ## Education
-- 2025 - present: Ph.D. student in Computer Science, Chinese University of Hong Kong.
+- 2025.8 - present: Ph.D. student in Computer Science, The Chinese University of Hong Kong.
 
 
-- 2021 - 2025: B.E. in Computer Science, Northwestern Polytechnical University.
+- 2021.9 - 2025.7: B.E. in Computer Science, Northwestern Polytechnical University.
