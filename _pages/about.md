@@ -31,9 +31,11 @@ I am a Ph.D. student supervised by Prof. [Tsung-Yi Ho](https://tsungyiho.github.
 My research interests include **Physical Design in 3D ICs and advanced packaging**. I used to be an ACMer in programming contests and entered the **International Collegiate Programming Contest (ICPC)** twice.
 
 ## Award
+
 - 2024.9, 51st Place, 48th Annual World Final of International Collegiate Programming Contest, Astana, Kazakhstan.
 - 2024.5, 26th Place, 46th Annual World Final of International Collegiate Programming Contest, Luxor, Egypt.
 
 ## Education
+
 - 2025.8 – present: Ph.D. student in Computer Science, The Chinese University of Hong Kong.
 - 2021.9 – 2025.7: B.E. in Computer Science, Northwestern Polytechnical University.
