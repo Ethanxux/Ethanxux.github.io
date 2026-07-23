@@ -1,9 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"DAC":
+  url: https://www.dac.com/
+  color: "#c4501b"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"TCAD":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43
+  color: "#00629b"
